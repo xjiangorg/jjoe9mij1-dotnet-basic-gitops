@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: jjoe9mij1-dotnet-basic-repository
+spec:
+  url: https://github.com/xjiangorg/jjoe9mij1-dotnet-basic
